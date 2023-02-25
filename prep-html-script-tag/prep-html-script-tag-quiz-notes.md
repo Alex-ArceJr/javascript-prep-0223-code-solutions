@@ -5,10 +5,14 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What tag is needed to load JavaScript scripts into an HTML document?
+the script tag
 
 - How do you use a script tag to write JavaScript directly in the HTML document?
 
+You use open and closed tags with script on HTML
+
 - How do you use a script tag to load an external JavaScript file?
+You would us the src tag and upload the external url
 
 ## Notes
 

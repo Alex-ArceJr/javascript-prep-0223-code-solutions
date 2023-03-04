@@ -7,11 +7,11 @@ After completing this exercise, you should be able to discuss or answer the foll
 - What data type is returned by an arithmetic operation?
 They return a single numerical value
 - What is string concatenation?
-It is used to join together and can be used by the '+' operator
+It is used to join together and can be used by the '+' operator, lets us combine strings
 - What purpose(s) does the `+` plus operator serve in JavaScript?
 The purpose is to produce the sum of numeric operands or the string concatenation
 - What data type is returned by comparing two values (`<`, `>`, `===`, etc)?
-They return true or false outputs
+They return true or false outputs, give boolean value
 
 - What does the `+=` "plus-equals" operator do?
 This operator adds the value of the variable it is assigned. It could be added as a numeric output or a concatenation. Also, determines the behavior of the addition assignment.

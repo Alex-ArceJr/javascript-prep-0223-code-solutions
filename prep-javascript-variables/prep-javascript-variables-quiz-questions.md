@@ -14,7 +14,7 @@ The typeof operator
 Can delcare with let,var,const
 
 - Which characters is a JavaScript variable allowed to begin with?
-Needs to use identifiers with unique names
+The dollar sign ($), underscore(_), and letters
 
 - What are quotation marks used for in JavaScript?
 They are used for text strings

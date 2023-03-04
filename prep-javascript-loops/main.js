@@ -34,7 +34,7 @@ function forLoop2() {
   const str = 'Time till explosion ';
   let i = 100;
   for (i = 100; i > 0; i--) {
-    array.push(str + i);
+    console.log(str + i);
   }
   return array;
 }
